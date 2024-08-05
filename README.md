@@ -12,8 +12,7 @@ Make sure you have Python installed on your system. If not, you can download it 
 
 ### Installation
 
-1. Clone this repository to your local machine using:
-git clone https://github.com/gabriel_kelvin/Student-Academic-Performance-Predictor.git
+1. Clone this repository to your local machine.
 
 2. Navigate to the project directory:
 cd student-performance-prediction
