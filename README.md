@@ -15,7 +15,7 @@ Make sure you have Python installed on your system. If not, you can download it 
 1. Clone this repository to your local machine.
 
 2. Navigate to the project directory:
-cd student-performance-prediction
+cd LearnerPro
 
 3. Install the required Python packages by running:
 pip install -r requirements.txt
@@ -26,7 +26,7 @@ python app.py
 ## Features
 
 - **User Authentication**: Users can log in using their register number and password.
-- **Student Performance Prediction**: After logging in, students can enter their CIA and Mid Semester scores for each subject, and the application predicts their end result percentage.
+- **Student Performance Prediction**: After logging in, students can enter their CIA(continuous Internal assessment) and Mid Semester scores for each subject, and the application predicts their end result percentage.
 - **Interactive Visualization**: The application provides an interactive line chart comparing actual and predicted scores for each subject.
 
 ## Contributing
