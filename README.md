@@ -1,4 +1,4 @@
-# LEARNERPRO - Student Performance Prediction
+# LEARNERPRO - Academic Performance Prediction
 
 This web application predicts the end result percentage of students based on their Continuous Internal Assessment (CIA) scores and Mid Semester Examination scores. It utilizes a Linear Regression model trained on historical student performance data.
 
@@ -29,6 +29,6 @@ python app.py
 - **Student Performance Prediction**: After logging in, students can enter their CIA(continuous Internal assessment) and Mid Semester scores for each subject, and the application predicts their end result percentage.
 - **Interactive Visualization**: The application provides an interactive line chart comparing actual and predicted scores for each subject.
 
-## Contributing
+## Authors
 
-Contributions are welcome! Please feel free to submit a pull request for any improvements or bug fixes.
+This web application was originally developed by Sagar Gurung and Gabriel Kelvin from the Computer science department of CHRIST University, Bangalore.
