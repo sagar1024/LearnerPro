@@ -1,4 +1,4 @@
-# LearnerPro - Academic Performance Prediction Web Application
+# LearnerPro - Academic Performance Predictor
 
 This web application predicts the end result percentage of students based on their Continuous Internal Assessment (CIA) scores and Mid Semester Examination scores. It utilizes a Linear Regression model trained on historical student performance data.
 
