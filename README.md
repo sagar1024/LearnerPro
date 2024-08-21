@@ -32,4 +32,4 @@ python app.py
 
 ## Authors
 
-This project was developed by my teammate Gabriel Kelviin and I during our Masters in Computer Science.
+This project was developed by my teammate Gabriel Kelvin and I as a part of our coursework during our Masters in Computer Science.
