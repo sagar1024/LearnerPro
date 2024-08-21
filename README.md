@@ -30,6 +30,6 @@ python app.py
 - **Student Performance Prediction**: After logging in, students can enter their CIA and Mid Semester scores for each subject, and the application predicts their end result percentage.
 - **Interactive Visualization**: The application provides an interactive line chart comparing actual and predicted scores for each subject.
 
-## Contributing
+## Authors
 
 This project was developed by my teammate Gabriel Kelviin and I during our Masters in Computer Science.
