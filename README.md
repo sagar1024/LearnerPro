@@ -32,4 +32,4 @@ python app.py
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request for any improvements or bug fixes.
+This project was developed by my teammate Gabriel Kelviin and I during our Masters in Computer Science.
