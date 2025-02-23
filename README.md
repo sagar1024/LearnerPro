@@ -1,8 +1,8 @@
-# LearnerPro - Academic Performance Predictor
+## LearnerPro - Academic Performance Predictor
 
 This web application predicts the end result percentage of students based on their Continuous Internal Assessment (CIA) scores and Mid Semester Examination scores. It utilizes a Linear Regression model trained on historical student performance data.
 
-## Getting Started
+### Getting Started
 
 To run this application locally, follow the steps below:
 
@@ -24,12 +24,12 @@ pip install -r requirements.txt
 4. Run the Flask application by executing:
 python app.py
 
-## Features
+### Features
 
 - **User Authentication**: Users can log in using their register number and password.
 - **Student Performance Prediction**: After logging in, students can enter their CIA and Mid Semester scores for each subject, and the application predicts their end result percentage.
 - **Interactive Visualization**: The application provides an interactive line chart comparing actual and predicted scores for each subject.
 
-## Authors
+### Authors
 
-This project was developed by my teammate Gabriel Kelvin and I as a part of our coursework during our Masters in Computer Science.
+This project was developed alongwith Gabriel Kelvin as a part of our coursework during our Masters in Computer Science.
