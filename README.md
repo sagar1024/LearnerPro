@@ -36,4 +36,4 @@ python app.py
 
 ## Authors
 
-This project was developed alongwith Gabriel Kelvin as a part of our coursework during our Masters in Computer Science.
+This project was developed Sagar Gurung alongwith Gabriel Kelvin as a part of our coursework during our Masters in Computer Science.
