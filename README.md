@@ -2,6 +2,12 @@
 
 This web application predicts the students' academic result percentage based on their scores and attendance rate. It utilizes a simple Linear Regression model trained on historical student performance data.
 
+## Features
+
+- **User Authentication**: Users can log in using their register number and password.
+- **Student Performance Prediction**: After logging in, students can enter their CIA and Mid Semester scores for each subject, and the application predicts their end result percentage.
+- **Interactive Visualization**: The application provides an interactive line chart comparing actual and predicted scores for each subject.
+
 ## Installation
 
 1. Clone this repository to your local machine using:
@@ -27,12 +33,6 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-
-## Features
-
-- **User Authentication**: Users can log in using their register number and password.
-- **Student Performance Prediction**: After logging in, students can enter their CIA and Mid Semester scores for each subject, and the application predicts their end result percentage.
-- **Interactive Visualization**: The application provides an interactive line chart comparing actual and predicted scores for each subject.
 
 ## Authors
 
