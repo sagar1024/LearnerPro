@@ -2,10 +2,6 @@
 
 This web application predicts the students' academic result percentage based on their scores and attendance rate. It utilizes a simple Linear Regression model trained on historical student performance data.
 
-## Prerequisites
-
-Make sure you have Python installed on your system. If not, you can download it from [here](https://www.python.org/downloads/).
-
 ## Installation
 
 1. Clone this repository to your local machine using:
