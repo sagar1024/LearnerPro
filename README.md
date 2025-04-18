@@ -10,7 +10,7 @@ This web application predicts the students academic result percentage based on t
 
 - **User Authentication**: Users can log in using their register number and password.
 
-### Installation
+### Installation -
 
 1. Clone this repository to your local machine using:
 
@@ -36,6 +36,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## Authors
+## Authors -
 
 This project was developed by Sagar Gurung and Gabriel Kelvin as a part of our coursework during our Masters in Computer Science.
