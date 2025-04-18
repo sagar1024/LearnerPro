@@ -1,6 +1,6 @@
-# LearnerPro - Academic Performance Predictor
+LearnerPro - Academic Performance Predictor
 
-This web application predicts the students' academic result percentage based on their scores and attendance rate. It utilizes a simple Linear Regression model trained on historical student performance data.
+This web application predicts the students academic result percentage based on their scores and attendance rate. It utilizes a multi-variable Linear Regression model trained on historical student performance data.
 
 ### Features
 
