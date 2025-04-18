@@ -2,11 +2,13 @@
 
 This web application predicts the students academic result percentage based on their scores and attendance rate. It utilizes a multi-variable Linear Regression model trained on historical student performance data.
 
-### Features
+### Features -
+
+- **Student Performance Prediction**: Students can enter their midsem scores for each subject, and predict their endsem percentage.
+
+- **Interactive Visualization**: The application provides an interactive line chart comparing actual and predicted scores for each subject.
 
 - **User Authentication**: Users can log in using their register number and password.
-- **Student Performance Prediction**: After logging in, students can enter their CIA and Mid Semester scores for each subject, and the application predicts their end result percentage.
-- **Interactive Visualization**: The application provides an interactive line chart comparing actual and predicted scores for each subject.
 
 ### Installation
 
