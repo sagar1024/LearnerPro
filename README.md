@@ -1,6 +1,6 @@
 # LearnerPro - Academic Performance Predictor
 
-LearnerPro is an AI-Powered Academic Performance Predictor. This web application predicts the students academic result percentage based on their scores and attendance rate. It utilizes a multi-variable Linear Regression model trained on historical student performance data.
+LearnerPro is an AI-Powered Academic Performance Predictor. This web application predicts the students academic result percentage based on their scores and attendance rate, utilizes a multi-variable regression model trained on historical student data.
 
 ### Features -
 
